@@ -12,11 +12,10 @@
 - Students can check their fees using this website
 
 
-
-https://jaydipsinh-collegewebsite.netlify.app
 ## Tech Stack
 
 **Client:** HTML, CSS, JAVASCRIPT
+
 
 
 
